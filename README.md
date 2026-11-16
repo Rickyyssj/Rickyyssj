@@ -1,16 +1,24 @@
-## Hi there 👋
+### ¡Hola! 👋 Soy Ricardo Midence
 
-<!--
-**Rickyyssj/Rickyyssj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería en Informática** en la Universidad Metropolitana de Honduras 🇭🇳. Me apasiona el desarrollo de software, la creación de herramientas funcionales y la administración de sistemas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 ¿Qué estoy haciendo actualmente?
+- 🚀 Construyendo aplicaciones web con **Python y Flask** (¡como sistemas de tickets de soporte interno!).
+- 📚 Reforzando mis bases en programación, lógica y control de versiones con Git y GitHub.
+- 🛠️ Manejando entornos de desarrollo en Windows y macOS con VS Code.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** Python
+- **Backend / Web:** Flask, SQLite
+- **Control de Versiones:** Git, GitHub
+- **Sistemas / OS:** Windows, macOS, Linux (básico)
+
+---
+
+### 📫 ¿Conectamos?
+- 📌 Estudiante en Tegucigalpa, Honduras.
+- ⚽ Amante del fútbol y de la tecnología.
